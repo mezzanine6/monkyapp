@@ -22,7 +22,6 @@ group :development, :test do
   gem 'sqlite3'
   gem 'web-console'
   gem 'spring'
-  gem 'debugger'
 end
 
 group :test do
