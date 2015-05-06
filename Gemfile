@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'rails'
-gem 'thin'
 gem 'bcrypt'
 gem 'faker'
 gem 'carrierwave'
@@ -22,6 +21,7 @@ group :development, :test do
   gem 'sqlite3'
   gem 'web-console'
   gem 'spring'
+  gem 'thin'
 end
 
 group :test do
