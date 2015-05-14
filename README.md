@@ -1,5 +1,5 @@
 == README
 
-Public files for Monkyapp test site.
+Ruby on rails files for Evan's Sample App based on Michael Hartl's book.
 
-l33t h4xz
+App available @ https://sampleappevan.herokuapp.com/
